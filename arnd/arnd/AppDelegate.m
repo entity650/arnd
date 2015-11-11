@@ -21,7 +21,7 @@
     // Override point for customization after application launch.
     
     //[self startSession];
-    
+    NSLog(@"The App started");
     [Parse setApplicationId:@"4TaQXvd49nxQvJBOewYAwRxW2UoqWXYYz1iU3NxV" clientKey:@"6X59j2hjMWUjngaCQeVmgNrgoCQTe7JVk7rvfX0R"];
     
     // ****************************************************************************
